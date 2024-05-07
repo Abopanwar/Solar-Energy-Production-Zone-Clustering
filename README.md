@@ -1,0 +1,1 @@
+This project focuses on the analysis of solar energy production zones using machine learning clustering techniques. The objective is to gain insights into the spatial distribution and characteristics of areas with significant solar energy production, which can inform decision-making processes in the renewable energy sector.
